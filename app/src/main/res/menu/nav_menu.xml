@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_gempa"
+        android:icon="@drawable/nav_info"
+        android:title="Info Gempa Dirasakan"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/nav_gempa_terkini"
+        android:icon="@drawable/nav_info_terkini"
+        android:title="Info Gempa Terkini"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/nav_Prakiraan"
+        android:icon="@drawable/nav_cuaca"
+        android:title="Prakiraan Cuaca"
+        app:showAsAction="ifRoom" />
+
+</menu>

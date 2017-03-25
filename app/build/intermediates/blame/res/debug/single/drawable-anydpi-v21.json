@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/nav_cuaca.xml",
+        "source": "/home/project/InfoBMKG/app/build/generated/res/pngs/debug/drawable-anydpi-v21/nav_cuaca.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/nav_info_terkini.xml",
+        "source": "/home/project/InfoBMKG/app/build/generated/res/pngs/debug/drawable-anydpi-v21/nav_info_terkini.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/nav_info.xml",
+        "source": "/home/project/InfoBMKG/app/build/generated/res/pngs/debug/drawable-anydpi-v21/nav_info.xml"
+    }
+]

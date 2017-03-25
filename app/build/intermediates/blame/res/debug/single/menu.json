@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/menu/nav_menu.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/menu/nav_menu.xml"
+    }
+]

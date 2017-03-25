@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/row_info_gempa_dirasakan.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/layout/row_info_gempa_dirasakan.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/row_info_gempa_terkini.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/layout/row_info_gempa_terkini.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/row_info_cuaca.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/layout/row_info_cuaca.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/dialog_image.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/layout/dialog_image.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/row_info_provinsi_spinner.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/layout/row_info_provinsi_spinner.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/f_prakiraan_cuaca.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/layout/f_prakiraan_cuaca.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/f_info_gempa_dirasakan.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/layout/f_info_gempa_dirasakan.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/f_info_gempa_terkini.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/layout/f_info_gempa_terkini.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/nav_header.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/layout/nav_header.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/layout/design_menu_item_action_area.xml"
+    }
+]

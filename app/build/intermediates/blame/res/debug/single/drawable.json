@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/nav_info_terkini.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/nav_info_terkini.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_hujan_ringan_black.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_hujan_ringan_black.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_kabut_black.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_kabut_black.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/ic_row_suhu_black.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/ic_row_suhu_black.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_hujan_local.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_hujan_local.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/nav_cuaca.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/nav_cuaca.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/ic_row_kelembaban_black.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/ic_row_kelembaban_black.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_berawan_tebal_black.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_berawan_tebal_black.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_hujan_ringan.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_hujan_ringan.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_hujan_sedang.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_hujan_sedang.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/ic_sync.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/ic_sync.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_hujan_sedang_black.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_hujan_sedang_black.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_kabur.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_kabur.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_circle_background.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_circle_background.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_berawan_tebal.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_berawan_tebal.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_cerah.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_cerah.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/ic_near.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/ic_near.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_cerah_black.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_cerah_black.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_berawan.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_berawan.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_kabut.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_kabut.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/alfian/.android/build-cache/a77801bec8f237d3b5e95266c8046e4feea4877d/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/ic_more.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/ic_more.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_cerah_berawan.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_cerah_berawan.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_hujan_petir_black.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_hujan_petir_black.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/ic_layers.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/ic_layers.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_hujan_petir.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_hujan_petir.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_cerah_berawan_black.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_cerah_berawan_black.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_hujan_local_black.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_hujan_local_black.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/ic_search_black_24dp.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/ic_more_black.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/ic_more_black.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/ic_row_suhu.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/ic_row_suhu.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/nav_info.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/nav_info.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/ic_row_kelembaban.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/ic_row_kelembaban.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/alfian/.android/build-cache/58c0bfb479b5d26c63705f1d199b303ada48f0cb/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/ic_pos.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/ic_pos.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_kabur_black.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_kabur_black.xml"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable/row_berawan_black.xml",
+        "source": "/home/project/InfoBMKG/app/src/main/res/drawable/row_berawan_black.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable-xhdpi/nav_cuaca.png",
+        "source": "/home/project/InfoBMKG/app/build/generated/res/pngs/debug/drawable-xhdpi/nav_cuaca.png"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable-xhdpi/nav_info_terkini.png",
+        "source": "/home/project/InfoBMKG/app/build/generated/res/pngs/debug/drawable-xhdpi/nav_info_terkini.png"
+    },
+    {
+        "merged": "/home/project/InfoBMKG/app/build/intermediates/res/merged/debug/drawable-xhdpi/nav_info.png",
+        "source": "/home/project/InfoBMKG/app/build/generated/res/pngs/debug/drawable-xhdpi/nav_info.png"
+    }
+]

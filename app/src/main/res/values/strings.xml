@@ -2,7 +2,7 @@
     <string name="app_name">Info BMKG</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
-    <string name="query_key">YOUR-API-KEY</string>
+    <string name="query_key">YOUR-API-KEy</string>
     <string name="query_info_gempa">gempa-dirasakan</string>
     <string name="query_info_terkini">gempa-terkini</string>
     <string name="query_info_provinsi">provinsi</string>
